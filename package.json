@@ -30,7 +30,6 @@
       "react-app/jest"
     ]
   },
-  "proxy": "https://lama-social.herokuapp.com/",
   "browserslist": {
     "production": [
       ">0.2%",
